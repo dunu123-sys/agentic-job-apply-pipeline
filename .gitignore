@@ -1,0 +1,19 @@
+# Local state and secrets — never commit these.
+node_modules/
+profiles/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+answer-bank.json
+resume.md
+resume.pdf
+secrets.yaml
+email-body.txt
+run-state.json
+run-log.txt
+apply-audit.log
+*.log
+shots/
+uploads/
+waha/
+.env

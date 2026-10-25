@@ -1,0 +1,42 @@
+{
+  "name": "desenvolvedor",
+  "label": "Desenvolvedor C#/.NET (principal)",
+  "sysRole": "desenvolvedor",
+  "profileBlock": "Example Candidate - desenvolvedor de sistemas/dados. Stack: C#, .NET Core, ASP.NET WebForms, SQL Server, MySQL, Python (automacao), ReactJS, Angular, JavaScript, Power BI, Excel avancado. Seniority target: Junior/Pleno. Local: Sao Paulo SP (remoto/hibrido ok).",
+  "coreStack": ["c#", ".net", "sql", "python", "react", "angular", "javascript", "power bi"],
+  "seniorityBand": ["júnior", "junior", "pleno", "mid"],
+  "liQueries": [
+    { "keywords": "desenvolvedor C#", "location": "Brazil", "pages": 2 },
+    { "keywords": "desenvolvedor .NET", "location": "São Paulo, Brazil", "pages": 2 },
+    { "keywords": "desenvolvedor SQL", "location": "Brazil", "pages": 1 },
+    { "keywords": "desenvolvedor Python", "location": "São Paulo, Brazil", "pages": 1 }
+  ],
+  "liFilters": { "f_TPR": "r604800" },
+  "ijQueries": [
+    { "palabra": "desenvolvedor c#", "poblacion": 5211323 },
+    { "palabra": "desenvolvedor .net", "poblacion": 5211323 },
+    { "palabra": "desenvolvedor sql", "poblacion": 5211323 },
+    { "palabra": "desenvolvedor python", "poblacion": 5211323 },
+    { "palabra": "desenvolvedor c#", "poblacion": null },
+    { "palabra": "desenvolvedor", "poblacion": 5211323 }
+  ],
+  "postKeywords": [
+    "vaga desenvolvedor",
+    "vaga desenvolvedor c#",
+    "vaga .net",
+    "vaga backend",
+    "#vagas ti",
+    "vaga programador",
+    "vaga full stack",
+    "vaga c# asp",
+    "vaga desenvolvedor pleno",
+    "vaga sql server",
+    "vaga angular",
+    "vaga react",
+    "oportunidade desenvolvedor",
+    "vaga analista de sistemas",
+    "vaga tecnologia sao paulo",
+    "contratando desenvolvedor"
+  ],
+  "thresholds": { "apply": 75, "review": 55 }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "dados",
+  "label": "Analista de Dados/BI (RASCUNHO — operator: edit before first real run)",
+  "sysRole": "analista de dados",
+  "profileBlock": "Example Candidate - analista de dados/BI. Stack: SQL Server, MySQL, Power BI, Excel avancado, Python (automacao e analise), C#/.NET para integracoes. Experiencia com modelagem de dados, relatorios e dashboards. Seniority target: Junior/Pleno. Local: Sao Paulo SP (remoto/hibrido ok).",
+  "coreStack": ["sql", "power bi", "excel", "python", "dados", "bi", "report", "dashboard"],
+  "minCoreRatio": 0.4,
+  "seniorityBand": ["júnior", "junior", "pleno", "mid"],
+  "liQueries": [
+    { "keywords": "analista de dados", "location": "São Paulo, Brazil", "pages": 2 },
+    { "keywords": "analista BI", "location": "Brazil", "pages": 1 },
+    { "keywords": "analista Power BI", "location": "São Paulo, Brazil", "pages": 1 }
+  ],
+  "liFilters": { "f_TPR": "r604800" },
+  "ijQueries": [
+    { "palabra": "analista de dados", "poblacion": 5211323 },
+    { "palabra": "analista bi", "poblacion": 5211323 },
+    { "palabra": "analista power bi", "poblacion": null }
+  ],
+  "postKeywords": [
+    "vaga analista de dados",
+    "vaga power bi",
+    "vaga analista bi",
+    "vaga dados",
+    "#vagas dados",
+    "oportunidade analista de dados",
+    "vaga sql",
+    "contratando analista de dados"
+  ],
+  "thresholds": { "apply": 75, "review": 55 }
+}
